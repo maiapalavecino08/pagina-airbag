@@ -1,0 +1,62 @@
+body{
+    background-color: pink;
+    color: black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+} 
+.imagenes{
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    
+}
+.biografia{
+    display: block;
+    text-align: center;
+    margin-bottom: 10px;
+    background-color: plum;
+    width: 200px;
+    text-align: center;
+    border-radius: 10px 10px;
+    box-shadow: 0 60px 30px -20px lavender inset;
+}
+.discografia{
+    display: block;
+    text-align: center;
+    margin-bottom: 10px;
+    background-color: plum;
+    width: 200px;
+    text-align: center;
+    border-radius: 10px 10px;
+    box-shadow: 0 60px 30px -20px lavender inset;
+}
+.trayectoria{
+    display: block;
+    text-align: center;
+    margin-bottom: 10px;
+    background-color: plum;
+    width: 200px;
+    text-align: center;
+    border-radius: 10px 10px;
+    box-shadow: 0 60px 30px -20px lavender inset;
+}
+.fotos{
+    display: block;
+    text-align: center;
+    margin-bottom: 10px;
+    background-color: plum;
+    width: 200px;
+    text-align: center;
+    border-radius: 10px 10px;
+    box-shadow: 0 60px 30px -20px lavender inset;
+}
+.redes{
+    display: block;
+    text-align: center;
+    margin-bottom: 10px;
+    background-color: plum;
+    width: 200px;
+    text-align: center;
+    border-radius: 10px 10px;
+    box-shadow: 0 60px 30px -20px lavender inset;
+}

@@ -1,0 +1,28 @@
+body{
+    background-color: cornflowerblue;
+    font-size: large;
+}
+.imagenes{
+    width: 600px;
+    height: 400px;
+    border-radius: 10px;
+    border-style:double;
+}
+.imagen1{
+    width: 400px;
+    height: 300px;
+    border-radius: 10px;
+    border-style:double;
+    float: right;
+    margin-left: 20px;
+}
+.texto{
+    font-size: small;
+}
+.contenedor{
+    background-color: skyblue;
+    color: black;
+    box-sizing: border-box;
+    display: block;
+    border: 10px solid blue;
+}
